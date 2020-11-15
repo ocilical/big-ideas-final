@@ -4,5 +4,5 @@
 - Datasets:
     - City of Pittsburgh Trees (https://data.wprdc.org/dataset/city-trees)
     - Waste Recovery Locations (https://data.wprdc.org/dataset/waste-recovery-locations/resource/51f0c4f3-0ddd-4073-8f39-ad19d7528575)
-    - Allegheny County Toxics Release Inventory (https://data.wprdc.org/dataset/toxic-release-inventory)
+    - Natural Environment Conditions (https://data.wprdc.org/dataset/pgh/resource/14501cb9-308d-49ce-8bbb-7933ad703fe1)
 ## Abstract
